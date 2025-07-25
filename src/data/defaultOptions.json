@@ -1,0 +1,39 @@
+{
+  "expiringTerms": {
+    "id": "expiring-terms",
+    "title": "Expiring Terms",
+    "familyDefinition": "EHP",
+    "employees": 100,
+    "dependents": 100,
+    "sumInsuredType": "Family Floater",
+    "sumInsuredOption": "uniform",
+    "sumInsuredValues": {
+      "100000": false,
+      "200000": true,
+      "300000": false,
+      "400000": false,
+      "500000": false,
+      "750000": false
+    },
+    "customSumInsured": "",
+    "comments": ""
+  },
+  "initialOption": {
+    "title": "Option 1",
+    "familyDefinition": "EMP",
+    "employees": 100,
+    "dependents": 100,
+    "sumInsuredType": "Family Floater",
+    "sumInsuredOption": "uniform",
+    "sumInsuredValues": {
+      "100000": false,
+      "200000": true,
+      "300000": false,
+      "400000": false,
+      "500000": false,
+      "750000": false
+    },
+    "customSumInsured": "",
+    "comments": ""
+  }
+}
